@@ -10,3 +10,5 @@ Unfortunately, the refactored code did not run as intended. However, the code pr
 Conversely, in 2018 ENPH and RUN were the only two companies that experienced positive gains, and therefore are the only two companies that reaped positive returns across both years. The following figure depicts the performance of 2018: https://github.com/mshedlosky/stock_analysis2/blob/main/2018_Run_Time_Analysis.PNG.
 
 The code that was utilized in the intial analysis ran much slower than the refactored code. While the output did not generate the same results, and there remains to be improvement needed to accomplish this, there is a distinct difference in run times between the two methods. The refactored code ran much quicker. 
+
+The refactored code took 0.10 seconds to run the 2017 data set compared to 1.10 seconds to run the original data set. Here are images of both run times: https://github.com/mshedlosky/stock_analysis2/blob/main/VBA_Challenge_2017.png.PNG. 
