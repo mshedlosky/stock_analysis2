@@ -9,7 +9,7 @@ Unfortunately, the refactored code did not run as intended. However, the code pr
 
 The code that was utilized in the intial analysis ran much slower than the refactored code. While the output did not generate the same results, and there remains to be improvement needed to accomplish this, there is a distinct difference in run times between the two methods. The refactored code ran much quicker. The refactored code took 0.10 seconds to run the 2017 data set compared to 1.10 seconds to run the original data set. Here are images of both run times: https://github.com/mshedlosky/stock_analysis2/blob/main/VBA_Challenge_2017.png.PNG. https://github.com/mshedlosky/stock_analysis2/blob/main/2017_Run_Time_Analysis.PNG. A similar trend was seen when the 2018 data was run. The refactored code took 0.15 seconds while the original code took 1.12 seconds to run. 
 
-In addition to more efficient run times, the refactored code does look much different. Illustrations of the original code can be seen here: 
+In addition to more efficient run times, the refactored code does look much different. Illustrations of the original code can be seen here: https://github.com/mshedlosky/stock_analysis2/blob/main/Original_Code.PNG
 
 ## Summary
 
