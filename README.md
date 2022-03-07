@@ -7,6 +7,6 @@ Unfortunately, the refactored code did not run as intended. However, the code pr
 
 2018 Realized a downturn in the market compared to the high yields in 2017 with respect to the 12 tickers that were analyzed. In 2017 the only company to experience negative earnings was TERP. This is illustrated here: https://github.com/mshedlosky/stock_analysis2/blob/main/2017_Run_Time_Analysis.PNG.
 
-Conversely, in 2018 ENPH and RUN were the only two companies that experienced positive gains, and therefore are the only two companies that reaped positive returns across both years. 
+Conversely, in 2018 ENPH and RUN were the only two companies that experienced positive gains, and therefore are the only two companies that reaped positive returns across both years. The following figure depicts the performance of 2018: https://github.com/mshedlosky/stock_analysis2/blob/main/2018_Run_Time_Analysis.PNG.
 
-The code that was utilized in the intial analysis ran much
+The code that was utilized in the intial analysis ran much slower than the refactored code. While the output did not generate the same results, and there remains to be improvement needed to accomplish this, there is a distinct difference in run times between the two methods. The refactored code ran much quicker. 
