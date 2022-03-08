@@ -7,11 +7,11 @@ The refactored code ran far more efficient than the original code. My initial su
 
 2018 Realized a downturn in the market compared to the high yields in 2017 with respect to the 12 tickers that were analyzed. In 2017 the only company to experience negative earnings was TERP. This is illustrated here: https://github.com/mshedlosky/stock_analysis2/blob/main/2017_Run_Time_Analysis.PNG. Conversely, in 2018 ENPH and RUN were the only two companies that experienced positive gains, and therefore are the only two companies that reaped positive returns across both years. The following figure depicts the performance of 2018: https://github.com/mshedlosky/stock_analysis2/blob/main/2018_Run_Time_Analysis.PNG.
 
-The code that was utilized in the intial analysis ran much slower than the refactored code. There is a distinct difference in run times between the two methods. The refactored code ran much quicker. The refactored code took 0.10 seconds to run the 2017 data set compared to 1.10 seconds to run the original data set. Here are images of both run times: https://github.com/mshedlosky/stock_analysis2/blob/main/VBA_Challenge_2017.png.png and . A similar trend was seen when the 2018 data was run. The refactored code took 0.15 seconds while the original code took 1.12 seconds to run. 
+The code that was utilized in the intial analysis ran much slower than the refactored code. There is a distinct difference in run times between the two methods. The refactored code ran much quicker. The refactored code took 0.10 seconds to run the 2017 data set compared to 1.10 seconds to run the original data set. A similar trend was seen when the 2018 data was run as the original code took 1.12 seconds to run while the refactored code took 0.09. The refactored code run time images can be seen here for both 2017 and 2018: https://github.com/mshedlosky/stock_analysis2/blob/main/VBA_Challenge_2017.png.png and https://github.com/mshedlosky/stock_analysis2/blob/main/VBA_Challenge_2018.png.png.
 
 In addition to more efficient run times, the refactored code does look much different. Illustrations of the original code can be seen here: https://github.com/mshedlosky/stock_analysis2/blob/main/Original_Code.PNG and https://github.com/mshedlosky/stock_analysis2/blob/main/Original_Code.2.PNG.
 
-The refactored code can be seen as more succinct with AND statements utilized, additional variables, and arrays. The refactored code can be seen here: https://github.com/mshedlosky/stock_analysis2/blob/main/Refactored_Code.PNG and https://github.com/mshedlosky/stock_analysis2/blob/main/Original_Code.2.PNG.
+The refactored code can be seen as more succinct with AND statements utilized, additional variables, and arrays. The refactored code can be seen here: .
 
 ## Summary
 
