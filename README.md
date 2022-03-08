@@ -11,14 +11,14 @@ The code that was utilized in the intial analysis ran much slower than the refac
 
 In addition to more efficient run times, the refactored code does look much different. Illustrations of the original code can be seen here: https://github.com/mshedlosky/stock_analysis2/blob/main/Original_Code.PNG and https://github.com/mshedlosky/stock_analysis2/blob/main/Original_Code.2.PNG.
 
-The refactored code can be seen as more succinct with AND statements utilized, additional variables, and arrays. The refactored code can be seen here: https://github.com/mshedlosky/stock_analysis2/blob/main/Refactored_Code.png and 
+The refactored code can be seen as more succinct with AND statements utilized, additional variables, and arrays. The refactored code can be seen here: https://github.com/mshedlosky/stock_analysis2/blob/main/Refactored_Code.png and https://github.com/mshedlosky/stock_analysis2/blob/main/Refactored_Code2.png. 
 
 ## Summary
 
 ### Advantages and Disadvantages of Refactoring Code
 With consideration that code is the catalyst for automation, identifying methods to enhance efficiencies and sustainability in perpetuity is critical. The advantages to refactoring code is that performance is enhanced in the way of taking up less memory and time, and efficiencies are improved by enabling updates in a more seamless manner. Ultimately code that is written today is intended to be extended upon tomorrow. Thus, continuous refactoring is essential. While continuous improvement is important, it can also be costly. The disadvantages to refactoring code is that refactoring requires time, resources, and financial commitment. Further, refactoring has the potential to create new bugs.
 ### Advantages and Disadvantages of the Original and Refactored VBA
-With consideration that the code ended up with a multitude of bugs that I was unable to successfully troubleshoot, is an example of the disadvantage of refactoring the VBA. The refactoring resulted in creating bugs that were not originally present. With that said, the advantage of refactoring was the decreased run time to generate results. 
+With consideration that the code ended up with a multitude of bugs that I was unable to successfully troubleshoot initially, is an example of the disadvantage of refactoring the VBA. The refactoring resulted in creating bugs that were not originally present. With that said, the advantage of refactoring was the decreased run time to generate results. 
 
 
 
