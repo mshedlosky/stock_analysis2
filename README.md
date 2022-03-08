@@ -11,7 +11,7 @@ The code that was utilized in the intial analysis ran much slower than the refac
 
 In addition to more efficient run times, the refactored code does look much different. Illustrations of the original code can be seen here: https://github.com/mshedlosky/stock_analysis2/blob/main/Original_Code.PNG and https://github.com/mshedlosky/stock_analysis2/blob/main/Original_Code.2.PNG.
 
-The refactored code can be seen as more succinct with AND statements utilized, additional variables, and arrays. The refactored code can be seen here: .
+The refactored code can be seen as more succinct with AND statements utilized, additional variables, and arrays. The refactored code can be seen here: https://github.com/mshedlosky/stock_analysis2/blob/main/Refactored_Code.png and 
 
 ## Summary
 
